@@ -1,0 +1,26 @@
+{
+    "total_students": {
+        "026": {
+            "name": "yusuf",
+            "age": "25",
+            "address": "144th north goran",
+            "student_id": "026",
+            "grades": {
+                "cse101": "b+"
+            },
+            "courses": [
+                "cse101"
+            ]
+        }
+    },
+    "total_courses": {
+        "cse101": {
+            "course_name": "cse101",
+            "course_code": "cse101",
+            "instructor": "amit",
+            "students": [
+                "026"
+            ]
+        }
+    }
+}
